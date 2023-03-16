@@ -2,7 +2,7 @@
 
 # Prise en main de NPM
 
-Nous allons avons ce projet pour prendre en main le package `chalk`
+Nous avons ce projet pour prendre en main le package `chalk`
 
 ## Installation
 
